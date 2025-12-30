@@ -13,7 +13,7 @@
 
 Pada bagian ini, jelaskan secara singkat dataset yang Anda gunakan. Apa saja variabel di dalamnya? Apa tujuan dari analisis yang Anda lakukan?
 
-Dataset yang digunakan adalah “data_startup_saas.csv” yang berisi 650 observasi dengan 6 variabel. Fokus analisis adalah hubungan antara pendapatan tahunan (Pendapatan_Tahunan_Miliar_IDR) sebagai variabel dependen dan biaya akuisisi pelanggan (Biaya_Akuisisi_Pelanggan_Juta_IDR) sebagai variabel independen. Tujuan proyek: menggambarkan karakteristik data (deskriptif), menguji kekuatan dan arah hubungan (korelasi), serta memodelkan dan mengevaluasi kemampuan prediksi (regresi linier).     
+* Dataset yang digunakan adalah “data_startup_saas.csv” yang berisi 650 observasi dengan 6 variabel. Fokus analisis adalah hubungan antara pendapatan tahunan (Pendapatan_Tahunan_Miliar_IDR) sebagai variabel dependen dan biaya akuisisi pelanggan (Biaya_Akuisisi_Pelanggan_Juta_IDR) sebagai variabel independen. Tujuan proyek: menggambarkan karakteristik data (deskriptif), menguji kekuatan dan arah hubungan (korelasi), serta memodelkan dan mengevaluasi kemampuan prediksi (regresi linier).     
 ---
 
 ## 3. Struktur Proyek
